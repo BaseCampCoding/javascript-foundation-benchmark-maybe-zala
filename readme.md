@@ -29,7 +29,7 @@
 - Create a function called `addBooking`
   - This function should take in a booking object and add it to the array.
 
-### 5. Add Booking Information
+### 5. Remove Booking Information
 - Create a function called `removeBooking`
   - This function should take in a booking object and remove it from the array.
 
